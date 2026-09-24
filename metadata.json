@@ -1,0 +1,7 @@
+{
+  "name": "Sweet Berry — Fresas con Crema Gourmet",
+  "description": "Plataforma ecommerce gourmet de fresas con crema con digitalización de facturas/catálogos por IA, verificación segura de clientes y sincronización continua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
